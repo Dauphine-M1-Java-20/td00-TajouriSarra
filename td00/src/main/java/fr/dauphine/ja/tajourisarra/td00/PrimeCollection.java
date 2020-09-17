@@ -41,7 +41,7 @@ public class PrimeCollection {
     public static void main( String[] args ){
         System.out.println( "Hello World!" );
         PrimeCollection collection = new PrimeCollection();
-        collection.initRandom(100,1000);
+        collection.initRandom(100,999);
         collection.printPrimes();
         
     }
