@@ -21,3 +21,5 @@ Créer un fichier JAR fonctionnel avec la commande mvn package
 5. Main + Ctrl + espace est un raccourci pour écrire main (args);
 6. Raccourci pour avoir le getteur de toto
 7. Alt + cmd + R pour refactorer
+
+mm
