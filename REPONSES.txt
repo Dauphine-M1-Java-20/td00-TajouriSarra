@@ -1,0 +1,23 @@
+Sarra Tajouri
+Exercice 1
+4. Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
+
+5. groupId: cette balise permet d'identifier un groupe qui a créé le projet. Cette clé permet d'organiser et de retrouver plus facilement et rapidement le projet.
+
+   artifactId:cette balise indique un nom unique utilisé pour nommer les artifacts à construire.
+
+9. Racine de l'arbre: <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+13. Cette propriété sert à dire que les classes compilées doivent être compatibles avec la version annoncée de la JVM
+On doit lui donner la même valeur que pour maven.compiler.source et donc 1.8
+
+Exercice 2
+1. no main manifest attribute, in target/td00-1.0-SNAPSHOT.jar
+
+Exercice3
+Créer un fichier JAR fonctionnel avec la commande mvn package
+3. Sysout + Ctrl + espace est un raccourci pour écrire System.out.println();
+4. toStr + Ctrl + espace est un raccourci pour écrire toString();
+5. Main + Ctrl + espace est un raccourci pour écrire main (args);
+6. Raccourci pour avoir le getteur de toto
+7. Alt + cmd + R pour refactorer
